@@ -8,4 +8,4 @@ Find a non-negative integer k < 2 maximumBit such that nums[0] XOR nums[1] XOR .
 Remove the last element from the current array nums.
 Return an array answer, where answer[i] is the answer to the ith query.
 
-[My solution](https://github.com/kkwwaa/Problem-Solving/Sums/maximum-xor-for-each-query/solution.cs)
+[My solution](https://github.com/kkwwaa/Problem-Solving/blob/main/Sums/maximum-xor-for-each-query/solution.cs)
