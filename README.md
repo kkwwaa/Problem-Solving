@@ -7,6 +7,7 @@ Welcome to my coding challenges repository! Here, I solve problems from LeetCode
 
 ## Topics
 - [Arrays](Arrays/)
+- [Sums](Sums/)
 - [Strings](Strings/)
 - [Dynamic Programming](DynamicProgramming/)
 
@@ -16,8 +17,7 @@ Welcome to my coding challenges repository! Here, I solve problems from LeetCode
 - Use GitHub tags (`easy`, `python`) or folder structure to filter.
 
 ## Featured Problems
-- [Two Sum](arrays/two-sum/) - Hash map solution in Python.
-- [Palindrome Check](strings/palindrome/) - String manipulation.
+- [Window method](Strings/maximize-the-confusion-of-an-exam) - solution in Python.
 
 ## Contact
 Explore my [GitHub](https://github.com/kkwwaa) or [resume site](https://kkwwaa.github.io)!
