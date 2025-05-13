@@ -6,9 +6,9 @@ My solutions to coding problems with explanations (LeetCode, Codeforces, acmp, O
 Welcome to my coding challenges repository! Here, I solve problems from LeetCode, Codeforces, and olympiads, with detailed explanations. Built to showcase my algorithmic and DevOps skills.
 
 ## Topics
-- [Arrays](arrays/)
-- [Strings](strings/)
-- [Dynamic Programming](dynamic-programming/)
+- [Arrays](Arrays/)
+- [Strings](Strings/)
+- [Dynamic Programming](DynamicProgramming/)
 
 ## How to Navigate
 - Each problem has a `README.md` with the problem statement.
