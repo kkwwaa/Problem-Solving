@@ -7,9 +7,11 @@ Welcome to my coding challenges repository! Here, I solve problems from LeetCode
 
 ## Topics
 - [Arrays](Arrays/)
+- [Graphs](Graphs/)
+- [Dynamic Programming](DynamicProgramming/)
 - [Sums](Sums/)
 - [Strings](Strings/)
-- [Dynamic Programming](DynamicProgramming/)
+  
 
 ## How to Navigate
 - Each problem has a `README.md` with the problem statement.
@@ -18,6 +20,7 @@ Welcome to my coding challenges repository! Here, I solve problems from LeetCode
 
 ## Featured Problems
 - [Window method](Strings/maximize-the-confusion-of-an-exam) - solution in Python.
+- [BFS](https://github.com/kkwwaa/Problem-Solving/blob/main/Graphs/SeaBattle/solution.cs) - solution in C++
 
 ## Contact
 Explore my [GitHub](https://github.com/kkwwaa) or [resume site](https://kkwwaa.github.io)!
