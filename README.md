@@ -21,8 +21,8 @@ Welcome to my coding challenges repository! Here, I solve problems from LeetCode
 
 ## Featured Problems
 - [Window method](Strings/maximize-the-confusion-of-an-exam) - solution in Python.
-- [BFS](https://github.com/kkwwaa/Problem-Solving/blob/main/Graphs/SeaBattle/solution.cs) - solution in C++.
-- [LCA](https://github.com/kkwwaa/Problem-Solving/blob/main/Trees/LCA/solution.cs) - solution in C++ with Binary Lifting.
+- [BFS](https://github.com/kkwwaa/Problem-Solving/blob/main/Graphs/SeaBattle) - solution in C++.
+- [LCA](https://github.com/kkwwaa/Problem-Solving/blob/main/Trees/LCA) - solution in C++ with Binary Lifting.
 
 ## Contact
 Explore my [GitHub](https://github.com/kkwwaa) or [resume site](https://kkwwaa.github.io)!
