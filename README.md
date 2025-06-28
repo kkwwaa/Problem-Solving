@@ -11,6 +11,7 @@ Welcome to my coding challenges repository! Here, I solve problems from LeetCode
 - [Dynamic Programming](DynamicProgramming/)
 - [Sums](Sums/)
 - [Strings](Strings/)
+- [Trees](Trees/)
   
 
 ## How to Navigate
@@ -20,7 +21,8 @@ Welcome to my coding challenges repository! Here, I solve problems from LeetCode
 
 ## Featured Problems
 - [Window method](Strings/maximize-the-confusion-of-an-exam) - solution in Python.
-- [BFS](https://github.com/kkwwaa/Problem-Solving/blob/main/Graphs/SeaBattle/solution.cs) - solution in C++
+- [BFS](https://github.com/kkwwaa/Problem-Solving/blob/main/Graphs/SeaBattle/solution.cs) - solution in C++.
+- [LCA](https://github.com/kkwwaa/Problem-Solving/blob/main/Trees/LCA/solution.cs) - solution in C++ with Binary Lifting.
 
 ## Contact
 Explore my [GitHub](https://github.com/kkwwaa) or [resume site](https://kkwwaa.github.io)!
