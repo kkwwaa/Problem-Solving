@@ -10,7 +10,7 @@ The World Championship in Battleship is approaching. It is planned to broadcast 
 - **number of damaged ships**
 - **number of destroyed ships**
 
-[My Solution](https://github.com/kkwwaa/Problem-Solving/blob/main/Graphs/SeaBattle/solution.cs)
+[My Solution](https://github.com/kkwwaa/Problem-Solving/blob/main/Graphs/SeaBattle/solution.cpp)
 ***
 ### Ru Notes
 
