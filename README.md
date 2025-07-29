@@ -23,6 +23,7 @@ Welcome to my coding challenges repository! Here, I solve problems from LeetCode
 - [Window method](Strings/maximize-the-confusion-of-an-exam) - solution in Python.
 - [BFS](https://github.com/kkwwaa/Problem-Solving/blob/main/Graphs/SeaBattle) - solution in C++.
 - [LCA](https://github.com/kkwwaa/Problem-Solving/blob/main/Trees/LCA) - solution in C++ with Binary Lifting.
+- [Segment Tree](https://github.com/kkwwaa/Problem-Solving/tree/main/Trees/SegmentTree_ForTheSum) - solution in C++ and Python.
 
 ## Contact
-Explore my [GitHub](https://github.com/kkwwaa) or [resume site](https://kkwwaa.github.io)!
+🐸Explore my [telegram](https://t.me/KKWWA_A) and [vk](https://vk.com/kkwwa_a)!🐸
