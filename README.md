@@ -17,7 +17,6 @@ Welcome to my coding challenges repository! Here, I solve problems from LeetCode
 ## How to Navigate
 - Each problem has a `README.md` with the problem statement.
 - Solutions are in `solution.py` or `solution.cpp` with comments.
-- Use GitHub tags (`easy`, `python`) or folder structure to filter.
 
 ## Featured Problems
 - [Window method](Strings/maximize-the-confusion-of-an-exam) - solution in Python.
