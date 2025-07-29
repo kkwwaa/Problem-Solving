@@ -1,7 +1,5 @@
-# Problem-Solving
-My solutions to coding problems with explanations (LeetCode, Codeforces, acmp, Olympiads, etc.).
 
-# Problem Solving by kkwwaa
+# **${\color{#87F03C}\text{Problem-Solving by kkwwaa🐸}}$**
 
 Welcome to my coding challenges repository! Here, I solve problems from LeetCode, Codeforces, and olympiads, with detailed explanations. Built to showcase my algorithmic and DevOps skills.
 
