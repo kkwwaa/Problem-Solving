@@ -96,3 +96,26 @@ void solve() {
     cout << en;
 }
 ```
+
+## Поиск подстроки
+```cpp
+// s-исходная строка+$,     sa-суф-ый массив,      t-подстрока
+bool contains(const string& s, const vector<int>& sa, const string& t) {
+    int n = s.size();
+    int l = 0, r = n - 1;
+    while (l <= r) { // циклом бин поиск
+        int m = (l + r) / 2; // середина
+        string suf = s.substr(sa[m], min((int)t.size(), n - sa[m])); // suf-префикс размером t суф-са с поз-ии[m]
+        if (suf.compare(0, t.size(), t) < 0) { // сравнение с позиции 0, подстроку размером t.size(), со строкой t
+            l = m + 1; // если suf < t, то двигаемся правее
+        } else {
+            r = m - 1; // иначе - левее
+        }
+    }
+    int pos = l; 
+    if (pos < n && s.compare(sa[pos], t.size(), t) == 0) { // если поз-ия не выходит за границы и подстрока(с поз-ии sa[pos], размером t.size()) равна строке t
+        return true;
+    }
+    return false;
+}
+```
