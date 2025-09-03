@@ -1,5 +1,5 @@
 # Задачка про бросание 2ух яиц
-<img width="1773" height="898" alt="image" src="https://github.com/user-attachments/assets/27e03039-fde5-4944-a1f6-adfe65d5a8c0" />
+
 ```cpp
 vector<vi> dp;
 
@@ -31,3 +31,5 @@ void solve(){
     cout<<ss(n,2);
 }
 ```
+
+<img width="1773" height="898" alt="image" src="https://github.com/user-attachments/assets/27e03039-fde5-4944-a1f6-adfe65d5a8c0" />
